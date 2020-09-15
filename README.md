@@ -1,7 +1,7 @@
 # Email Classification Naive bayes implementation
-This repo hosts implementation of Naive bayes from scrtach, implemented on emails dataset consisting of 960 emails to classify spam and non spam emails. 480 sa,ples from each class. Further more all the preprocessing steps such as stop word removal, lemmatization and removal of non words on each email have been performed  </br>
+This repo hosts implementation of Naive bayes from scrtach, implemented on emails dataset consisting of 960 emails to classify spam and non spam emails. 480 samples from each class. Further more all the preprocessing steps such as stop word removal, lemmatization and removal of non words on each email have been performed  </br></br>
 Dataset is hosted on google drive, colab notebook will automatically download the dataset from the drive </br>
-</br> </br>
+</br> 
 DISCLAIMER : Accuracy is pretty low, there's some problem with the formula implemented in "Feature Vector Extraction" tab. Dont have the time to look in depth and figure out, left for future work 
 Dataset is 
 </br> </br>
