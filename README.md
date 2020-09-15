@@ -1,1 +1,1 @@
-# Email-Classification-Naive-bayes-implementation-
+# Email Classification Naive bayes implementation
